@@ -1,2 +1,2 @@
-console.lkog('hello')
+console.log('hello')
 const a = 'hello'
